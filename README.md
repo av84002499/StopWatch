@@ -1,2 +1,2 @@
 # JS StopWatch
-Live Preview : https://manalliaquat.github.io/JS-StopWatch/
+Live Preview : https://https://github.com/av84002499/StopWatch
