@@ -1,2 +1,2 @@
 # JS StopWatch
-Live Preview : https://github.com/av84002499/StopWatch
+Live Preview : https://StopWatch.netlify.app/
